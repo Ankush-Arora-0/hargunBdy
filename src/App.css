@@ -29,7 +29,7 @@ body{
   width: 100%;
   height: 100%;
   content: "";
-  background: url('./public/images/bg1.png') center center no-repeat;
+  background: url('/bg1.png') center center no-repeat;
   /* background-color: blanchedalmond; */
   top: 0px;
   left: 0px;
