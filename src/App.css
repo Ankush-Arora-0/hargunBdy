@@ -23,6 +23,7 @@ body{
   height: 100%;
   top: 0px;
   left: 0px;
+  padding-bottom: 40px;
 }
 .main::before{
   position: absolute;
@@ -73,7 +74,7 @@ body{
   padding: 2px 4px;
   box-shadow: 0px 0px 8px 2px #b9b9b9;
   border-radius: 5px ;
-  margin-bottom: 50px;
+ 
 }
 /* .hrts{
   position: absolute;
